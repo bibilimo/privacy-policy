@@ -70,6 +70,8 @@ You have the right to:
 
 We may update this policy from time to time. Any changes will be posted on our app and website with an updated effective date.
 
+---
+
 ## Terms and Conditions
 
 ### 9. User Responsibilities
@@ -87,8 +89,7 @@ We may update this policy from time to time. Any changes will be posted on our a
 
 ### 11. Booking & Cancellation Policy
 
-\_ Riders can cancel trips within a designated timeframe without penalties.
-
+-   Riders can cancel trips within a designated timeframe without penalties.
 -   Late cancellations or no-shows may result in charges.
 -   Drivers have the right to cancel rides in cases of safety concerns or policy violations.
 
