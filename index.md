@@ -13,7 +13,7 @@ We may collect the following types of information:
 -   **Location Data**: Real-time location when using our app to provide ride services.
 -   **Usage Data**: App interactions, device information, and preferences.
 
-#### How We Use Your Information
+#### 2. How We Use Your Information
 
 We use your data for the following purposes:
 
