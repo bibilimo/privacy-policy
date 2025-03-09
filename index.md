@@ -71,7 +71,6 @@ We may update this policy from time to time. Any changes will be posted on our a
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**BiBi Limo Pte Ltd**
-
+**BiBi Limo Pte Ltd**\
 Email: hello@bibi.sg\
 Phone: +6590096366
